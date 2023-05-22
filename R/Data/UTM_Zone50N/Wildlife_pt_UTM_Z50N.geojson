@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "Wildlife_pt_UTM_Z50N",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32650" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 7 }, "geometry": { "type": "Point", "coordinates": [ 237101.615634376998059, 3390717.3946413542144 ] } },
+{ "type": "Feature", "properties": { "id": 8 }, "geometry": { "type": "Point", "coordinates": [ 237106.218080157705117, 3390727.963513301219791 ] } },
+{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "Point", "coordinates": [ 236995.860560147732031, 3390674.746295982506126 ] } },
+{ "type": "Feature", "properties": { "id": 2 }, "geometry": { "type": "Point", "coordinates": [ 236989.568587590882089, 3390669.946007137186825 ] } },
+{ "type": "Feature", "properties": { "id": 3 }, "geometry": { "type": "Point", "coordinates": [ 236989.848242408246733, 3390663.803345244377851 ] } },
+{ "type": "Feature", "properties": { "id": 4 }, "geometry": { "type": "Point", "coordinates": [ 236990.684611977951135, 3390660.738112920895219 ] } },
+{ "type": "Feature", "properties": { "id": 5 }, "geometry": { "type": "Point", "coordinates": [ 236999.423721595318057, 3390647.58355604019016 ] } },
+{ "type": "Feature", "properties": { "id": 6 }, "geometry": { "type": "Point", "coordinates": [ 237002.88638215768151, 3390639.518865501508117 ] } }
+]
+}

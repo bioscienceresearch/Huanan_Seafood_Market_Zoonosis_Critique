@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "WHO_HSM_vendor_cases_1_2019-12-13th-20th_UTM_Z50N",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32650" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "date_end": "2019-12-13", "note": "1" }, "geometry": { "type": "Point", "coordinates": [ 237010.151589887740556, 3390696.918919420801103 ] } },
+{ "type": "Feature", "properties": { "id": 4, "date_end": "2019-12-20", "note": "1" }, "geometry": { "type": "Point", "coordinates": [ 237044.761750760662835, 3390646.868701354600489 ] } },
+{ "type": "Feature", "properties": { "id": 2, "date_end": "2019-12-20", "note": "1" }, "geometry": { "type": "Point", "coordinates": [ 237034.188656278245617, 3390741.484114494174719 ] } },
+{ "type": "Feature", "properties": { "id": 3, "date_end": "2019-12-20", "note": "1" }, "geometry": { "type": "Point", "coordinates": [ 237022.358460351882968, 3390718.397106364369392 ] } },
+{ "type": "Feature", "properties": { "id": 5, "date_end": "2019-12-20", "note": "1" }, "geometry": { "type": "Point", "coordinates": [ 237041.654778805677779, 3390658.335024188738316 ] } },
+{ "type": "Feature", "properties": { "id": 6, "date_end": "2019-12-20", "note": "1" }, "geometry": { "type": "Point", "coordinates": [ 237042.126512023445684, 3390721.746931659523398 ] } },
+{ "type": "Feature", "properties": { "id": 7, "date_end": "2019-12-20", "note": "1" }, "geometry": { "type": "Point", "coordinates": [ 237042.126512023445684, 3390721.746931659523398 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HSM_west_internal_border_UTM_Z50N",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32650" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 236967.691430858627427, 3390730.917721993289888 ], [ 237040.291179447143804, 3390748.862459000200033 ], [ 237076.835337491764221, 3390601.470076755620539 ], [ 237002.481641812657472, 3390582.82434906065464 ], [ 236967.691430858627427, 3390730.917721993289888 ] ] ] ] } }
+]
+}
